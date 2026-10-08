@@ -1,6 +1,6 @@
 ![NoIX-Illustration](noix-illustration.png)
 
-### NoIX <sub>NoIX-09</sub>
+### NoIX 
 
 > *Dango and nekos are the only things I'd never betray.*
 
